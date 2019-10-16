@@ -1,0 +1,484 @@
+{
+
+"Ventas": [
+
+{
+
+"Id": 1,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+
+},
+
+{
+
+
+"Id": 2,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 3,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 4,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 5,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+},
+
+{
+
+"Id": 6,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 7,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 8,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 9,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 10,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 11,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+},
+
+{
+
+"Id": 12,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 13,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 14,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+},
+
+{
+
+"Id": 15,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 16,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 17,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 18,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 19,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 20,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+"Id": 21,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 22,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 23,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 24,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+},
+
+{
+
+"Id": 25,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 26,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 27,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 28,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 29,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+},
+
+{
+
+"Id": 30,
+
+"Nombre": "laptop",
+
+"Tipo": "2131",
+
+"Precio": "312",
+
+"Codigo": "12"
+
+"Descipcion": "12"
+
+}
+
+]
+
+}
