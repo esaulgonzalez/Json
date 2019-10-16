@@ -1,733 +1,1390 @@
 {
 
+"Inventario": [
 
+{
 
-  "Productos": [
+"Id": 1,
 
-    {
+"Producto": "laptop",
 
-      "idProducto": 1,
+"Cantidad": "2131",
 
-      "Nombre": "Tracy Vick",
+"PrecioUnitario": "312",
 
-      "Tipo": "Consumible",
+"Preciototal": "12"
 
-      "PVenta": 14.6766,
 
-      "PCoste": 9.0802,
+},
 
-      "Codigo": "Love",
+{
 
-      "Proveedor": "franklin@carter.pk",
 
-      "Stock": 7,
+"Id": 2,
 
-      "Estatus": "Activo",
+"Producto": "laptop",
 
-      "FCreacion": "2019-10-03",
+"Cantidad": "2131",
 
-      "FModificacion": "2019-10-03",
+"PrecioUnitario": "312",
 
-      "User": "Cesar"
+"Preciototal": "12"
 
-    },
+},
 
-    {
+{
 
-      "idProducto": 2,
+"Id": 3,
 
-      "Nombre": "Natalie Stuart",
+"Producto": "laptop",
 
-      "Tipo": "Consumible",
+"Cantidad": "2131",
 
-      "PVenta": 13.0837,
+"PrecioUnitario": "312",
 
-      "PCoste": 8.7879,
+"Preciototal": "12"
 
-      "Codigo": "Atkins",
+},
 
-      "Proveedor": "kara@alston.ml",
+{
 
-      "Stock": 10,
+"Id": 4,
 
-      "Estatus": "Activo",
+"Producto": "laptop",
 
-      "FCreacion": "2019-10-03",
+"Cantidad": "2131",
 
-      "FModificacion": "2019-10-03",
+"PrecioUnitario": "312",
 
-      "User": "Cesar"
+"Preciototal": "12"
 
-    },
+},
 
-    {
+{
 
-      "idProducto": 3,
+"Id": 5,
 
-      "Nombre": "Eva Sherrill",
+"Producto": "laptop",
 
-      "Tipo": "Consumible",
+"Cantidad": "2131",
 
-      "PVenta": 16.4787,
+"PrecioUnitario": "312",
 
-      "PCoste": 9.8712,
+"Preciototal": "12"
+},
 
-      "Codigo": "Clements",
+{
 
-      "Proveedor": "carol@burgess.tg",
+"Id": 6,
 
-      "Stock": 1,
+"Producto": "laptop",
 
-      "Estatus": "Activo",
+"Cantidad": "2131",
 
-      "FCreacion": "2019-10-03",
+"PrecioUnitario": "312",
 
-      "FModificacion": "2019-10-03",
+"Preciototal": "12"
 
-      "User": "Cesar"
+},
 
-    },
+{
 
-    {
+"Id": 7,
 
-      "idProducto": 4,
+"Producto": "laptop",
 
-      "Nombre": "Hazel Alexander",
+"Cantidad": "2131",
 
-      "Tipo": "Consumible",
+"PrecioUnitario": "312",
 
-      "PVenta": 12.181,
+"Preciototal": "12"
 
-      "PCoste": 8.3674,
+},
 
-      "Codigo": "McConnell",
+{
 
-      "Proveedor": "regina@boykin.ml",
+"Id": 8,
 
-      "Stock": 0,
+"Producto": "laptop",
 
-      "Estatus": "Activo",
+"Cantidad": "2131",
 
-      "FCreacion": "2019-10-03",
+"PrecioUnitario": "312",
 
-      "FModificacion": "2019-10-03",
+"Preciototal": "12"
 
-      "User": "Cesar"
+},
 
-    },
+{
 
-    {
+"Id": 9,
 
-      "idProducto": 5,
+"Producto": "laptop",
 
-      "Nombre": "Gayle Floyd",
+"Cantidad": "2131",
 
-      "Tipo": "Consumible",
+"PrecioUnitario": "312",
 
-      "PVenta": 14.4915,
+"Preciototal": "12"
 
-      "PCoste": 8.31,
+},
 
-      "Codigo": "Francis",
+{
 
-      "Proveedor": "vickie@schroeder.bn",
+"Id": 10,
 
-      "Stock": 10,
+"Producto": "laptop",
 
-      "Estatus": "Activo",
+"Cantidad": "2131",
 
-      "FCreacion": "2019-10-03",
+"PrecioUnitario": "312",
 
-      "FModificacion": "2019-10-03",
+"Preciototal": "12"
 
-      "User": "Cesar"
+},
 
-    },
+{
 
-    {
+"Id": 11,
 
-      "idProducto": 6,
+"Producto": "laptop",
 
-      "Nombre": "Gayle Floyd",
+"Cantidad": "2131",
 
-      "Tipo": "Consumible",
+"PrecioUnitario": "312",
 
-      "PVenta": 14.4915,
+"Preciototal": "12"
+},
 
-      "PCoste": 8.31,
+{
 
-      "Codigo": "Francis",
+"Id": 12,
 
-      "Proveedor": "vickie@schroeder.bn",
+"Producto": "laptop",
 
-      "Stock": 10,
+"Cantidad": "2131",
 
-      "Estatus": "Activo",
+"PrecioUnitario": "312",
 
-      "FCreacion": "2019-10-03",
+"Preciototal": "12"
 
-      "FModificacion": "2019-10-03",
+},
 
-      "User": "Cesar"
+{
 
-    },
+"Id": 13,
 
-    {
+"Producto": "laptop",
 
-      "idProducto": 7,
+"Cantidad": "2131",
 
-      "Nombre": "Gayle Floyd",
+"PrecioUnitario": "312",
 
-      "Tipo": "Consumible",
+"Preciototal": "12"
 
-      "PVenta": 14.4915,
+},
 
-      "PCoste": 8.31,
+{
 
-      "Codigo": "Francis",
+"Id": 14,
 
-      "Proveedor": "vickie@schroeder.bn",
+"Producto": "laptop",
 
-      "Stock": 10,
+"Cantidad": "2131",
 
-      "Estatus": "Activo",
+"PrecioUnitario": "312",
 
-      "FCreacion": "2019-10-03",
+"Preciototal": "12"
+},
 
-      "FModificacion": "2019-10-03",
+{
 
-      "User": "Cesar"
+"Id": 15,
 
-    },
+"Producto": "laptop",
 
-    {
+"Cantidad": "2131",
 
-      "idProducto": 8,
+"PrecioUnitario": "312",
 
-      "Nombre": "Gayle Floyd",
+"Preciototal": "12"
 
-      "Tipo": "Consumible",
+},
 
-      "PVenta": 14.4915,
+{
 
-      "PCoste": 8.31,
+"Id": 16,
 
-      "Codigo": "Francis",
+"Producto": "laptop",
 
-      "Proveedor": "vickie@schroeder.bn",
+"Cantidad": "2131",
 
-      "Stock": 10,
+"PrecioUnitario": "312",
 
-      "Estatus": "Activo",
+"Preciototal": "12"
 
-      "FCreacion": "2019-10-03",
+},
 
-      "FModificacion": "2019-10-03",
+{
 
-      "User": "Cesar"
+"Id": 17,
 
-    },
+"Producto": "laptop",
 
-    {
+"Cantidad": "2131",
 
-      "idProducto": 9,
+"PrecioUnitario": "312",
 
-      "Nombre": "Gayle Floyd",
+"Preciototal": "12"
 
-      "Tipo": "Consumible",
+},
 
-      "PVenta": 14.4915,
+{
 
-      "PCoste": 8.31,
+"Id": 18,
 
-      "Codigo": "Francis",
+"Producto": "laptop",
 
-      "Proveedor": "vickie@schroeder.bn",
+"Cantidad": "2131",
 
-      "Stock": 10,
+"PrecioUnitario": "312",
 
-      "Estatus": "Activo",
+"Preciototal": "12"
 
-      "FCreacion": "2019-10-03",
+},
 
-      "FModificacion": "2019-10-03",
+{
 
-      "User": "Cesar"
+"Id": 19,
 
-    },
+"Producto": "laptop",
 
-    {
+"Cantidad": "2131",
 
-      "idProducto": 10,
+"PrecioUnitario": "312",
 
-      "Nombre": "Gayle Floyd",
+"Preciototal": "12"
 
-      "Tipo": "Consumible",
+},
 
-      "PVenta": 14.4915,
+{
 
-      "PCoste": 8.31,
+"Id": 20,
 
-      "Codigo": "Francis",
+"Producto": "laptop",
 
-      "Proveedor": "vickie@schroeder.bn",
+"Cantidad": "2131",
 
-      "Stock": 10,
+"PrecioUnitario": "312",
 
-      "Estatus": "Activo",
+"Preciototal": "12"
 
-      "FCreacion": "2019-10-03",
+},
 
-      "FModificacion": "2019-10-03",
+{
+"Id": 21,
 
-      "User": "Cesar"
+"Producto": "laptop",
 
-    },
+"Cantidad": "2131",
 
-    {
+"PrecioUnitario": "312",
 
-      "idProducto": 11,
+"Preciototal": "12"
 
-      "Nombre": "Gayle Floyd",
+},
 
-      "Tipo": "Consumible",
+{
 
-      "PVenta": 14.4915,
+"Id": 22,
 
-      "PCoste": 8.31,
+"Producto": "laptop",
 
-      "Codigo": "Francis",
+"Cantidad": "2131",
 
-      "Proveedor": "vickie@schroeder.bn",
+"PrecioUnitario": "312",
 
-      "Stock": 10,
+"Preciototal": "12"
 
-      "Estatus": "Activo",
+},
 
-      "FCreacion": "2019-10-03",
+{
 
-      "FModificacion": "2019-10-03",
+"Id": 23,
 
-      "User": "Cesar"
+"Producto": "laptop",
 
-    },
+"Cantidad": "2131",
 
-    {
+"PrecioUnitario": "312",
 
-      "idProducto": 12,
+"Preciototal": "12"
 
-      "Nombre": "Gayle Floyd",
+},
 
-      "Tipo": "Consumible",
+{
 
-      "PVenta": 14.4915,
+"Id": 24,
 
-      "PCoste": 8.31,
+"Producto": "laptop",
 
-      "Codigo": "Francis",
+"Cantidad": "2131",
 
-      "Proveedor": "vickie@schroeder.bn",
+"PrecioUnitario": "312",
 
-      "Stock": 10,
+"Preciototal": "12"
+},
 
-      "Estatus": "Activo",
+{
 
-      "FCreacion": "2019-10-03",
+"Id": 25,
 
-      "FModificacion": "2019-10-03",
+"Producto": "laptop",
 
-      "User": "Cesar"
+"Cantidad": "2131",
 
-    },
+"PrecioUnitario": "312",
 
-    {
+"Preciototal": "12"
 
-      "idProducto": 13,
+},
 
-      "Nombre": "Gayle Floyd",
+{
 
-      "Tipo": "Consumible",
+"Id": 26,
 
-      "PVenta": 14.4915,
+"Producto": "laptop",
 
-      "PCoste": 8.31,
+"Cantidad": "2131",
 
-      "Codigo": "Francis",
+"PrecioUnitario": "312",
 
-      "Proveedor": "vickie@schroeder.bn",
+"Preciototal": "12"
 
-      "Stock": 10,
+},
 
-      "Estatus": "Activo",
+{
 
-      "FCreacion": "2019-10-03",
+"Id": 27,
 
-      "FModificacion": "2019-10-03",
+"Producto": "laptop",
 
-      "User": "Cesar"
+"Cantidad": "2131",
 
-    },
+"PrecioUnitario": "312",
 
-    {
+"Preciototal": "12"
 
-      "idProducto": 14,
+},
 
-      "Nombre": "Gayle Floyd",
+{
 
-      "Tipo": "Consumible",
+"Id": 28,
 
-      "PVenta": 14.4915,
+"Producto": "laptop",
 
-      "PCoste": 8.31,
+"Cantidad": "2131",
 
-      "Codigo": "Francis",
+"PrecioUnitario": "312",
 
-      "Proveedor": "vickie@schroeder.bn",
+"Preciototal": "12"
 
-      "Stock": 10,
+},
 
-      "Estatus": "Activo",
+{
 
-      "FCreacion": "2019-10-03",
+"Id": 29,
 
-      "FModificacion": "2019-10-03",
+"Producto": "laptop",
 
-      "User": "Cesar"
+"Cantidad": "2131",
 
-    },
+"PrecioUnitario": "312",
 
-    {
+"Preciototal": "12"
 
-      "idProducto": 15,
+},
 
-      "Nombre": "Gayle Floyd",
+{
 
-      "Tipo": "Consumible",
+"Id": 30,
 
-      "PVenta": 14.4915,
+"Producto": "laptop",
 
-      "PCoste": 8.31,
+"Cantidad": "2131",
 
-      "Codigo": "Francis",
+"PrecioUnitario": "312",
 
-      "Proveedor": "vickie@schroeder.bn",
+"Preciototal": "12"
 
-      "Stock": 10,
+}
 
-      "Estatus": "Activo",
+],
 
-      "FCreacion": "2019-10-03",
+{
+{
 
-      "FModificacion": "2019-10-03",
+"Ventas": [
 
-      "User": "Cesar"
 
-    }
 
-  ],
+{
 
-  "Reglas": [
 
-    {
 
-      "idRegla": 1,
+"Id": 1,
 
-      "Nombre": "Kevin Hewitt",
 
-      "idProducto": 1,
 
-      "CantidadMin": 7.9335,
+"Nombre": "laptop",
 
-      "CantidadMax": 47.4501,
 
-      "FCreacion": "2019-10-03",
 
-      "FModificacion": "2019-10-03",
+"Tipo": "2131",
 
-      "User": "Cesar"
 
-    },
 
-    {
+"Precio": "312",
 
-      "idRegla": 2,
 
-      "Nombre": "Jennifer Singleton",
 
-      "idProducto": 2,
+"Codigo": "12",
 
-      "CantidadMin": 9.1201,
 
-      "CantidadMax": 21.3855,
 
-      "FCreacion": "2019-10-03",
+"Descipcion": "12"
 
-      "FModificacion": "2019-10-03",
 
-      "User": "Cesar"
 
-    },
 
-    {
 
-      "idRegla": 3,
+},
 
-      "Nombre": "Marion Barr",
 
-      "idProducto": 3,
 
-      "CantidadMin": 9.0701,
+{
 
-      "CantidadMax": 44.473,
 
-      "FCreacion": "2019-10-03",
 
-      "FModificacion": "2019-10-03",
 
-      "User": "Cesar"
 
-    },
+"Id": 2,
 
-    {
 
-      "idRegla": 4,
 
-      "Nombre": "Neal Finch",
+"Nombre": "laptop",
 
-      "idProducto": 4,
 
-      "CantidadMin": 9.2918,
 
-      "CantidadMax": 30.3569,
+"Tipo": "2131",
 
-      "FCreacion": "2019-10-03",
 
-      "FModificacion": "2019-10-03",
 
-      "User": "Cesar"
+"Precio": "312",
 
-    },
 
-    {
 
-      "idRegla": 5,
+"Codigo": "12",
 
-      "Nombre": "Diana Beck",
 
-      "idProducto": 5,
 
-      "CantidadMin": 8.9041,
+"Descipcion": "12"
 
-      "CantidadMax": 42.8234,
 
-      "FCreacion": "2019-10-03",
 
-      "FModificacion": "2019-10-03",
+},
 
-      "User": "Cesar"
 
-    },
 
-    {
+{
 
-      "idRegla": 6,
 
-      "Nombre": "Diana Beck",
 
-      "idProducto": 5,
+"Id": 3,
 
-      "CantidadMin": 8.9041,
 
-      "CantidadMax": 42.8234,
 
-      "FCreacion": "2019-10-03",
+"Nombre": "laptop",
 
-      "FModificacion": "2019-10-03",
 
-      "User": "Cesar"
 
-    },
+"Tipo": "2131",
 
-    {
 
-      "idRegla": 7,
 
-      "Nombre": "Diana Beck",
+"Precio": "312",
 
-      "idProducto": 5,
 
-      "CantidadMin": 8.9041,
 
-      "CantidadMax": 42.8234,
+"Codigo": "12",
 
-      "FCreacion": "2019-10-03",
 
-      "FModificacion": "2019-10-03",
 
-      "User": "Cesar"
+"Descipcion": "12"
 
-    },
 
-    {
 
-      "idRegla": 8,
+},
 
-      "Nombre": "Diana Beck",
 
-      "idProducto": 5,
 
-      "CantidadMin": 8.9041,
+{
 
-      "CantidadMax": 42.8234,
 
-      "FCreacion": "2019-10-03",
 
-      "FModificacion": "2019-10-03",
+"Id": 4,
 
-      "User": "Cesar"
 
-    },
 
-    {
+"Nombre": "laptop",
 
-      "idRegla": 9,
 
-      "Nombre": "Diana Beck",
 
-      "idProducto": 5,
+"Tipo": "2131",
 
-      "CantidadMin": 8.9041,
 
-      "CantidadMax": 42.8234,
 
-      "FCreacion": "2019-10-03",
+"Precio": "312",
 
-      "FModificacion": "2019-10-03",
 
-      "User": "Cesar"
 
-    },
+"Codigo": "12",
 
-    {
 
-      "idRegla": 10,
 
-      "Nombre": "Diana Beck",
+"Descipcion": "12"
 
-      "idProducto": 5,
 
-      "CantidadMin": 8.9041,
 
-      "CantidadMax": 42.8234,
+},
 
-      "FCreacion": "2019-10-03",
 
-      "FModificacion": "2019-10-03",
 
-      "User": "Cesar"
+{
 
-    },
 
-    {
 
-      "idRegla": 11,
+"Id": 5,
 
-      "Nombre": "Diana Beck",
 
-      "idProducto": 5,
 
-      "CantidadMin": 8.9041,
+"Nombre": "laptop",
 
-      "CantidadMax": 42.8234,
 
-      "FCreacion": "2019-10-03",
 
-      "FModificacion": "2019-10-03",
+"Tipo": "2131",
 
-      "User": "Cesar"
 
-    },
 
-    {
+"Precio": "312",
 
-      "idRegla": 12,
 
-      "Nombre": "Diana Beck",
 
-      "idProducto": 5,
+"Codigo": "12",
 
-      "CantidadMin": 8.9041,
 
-      "CantidadMax": 42.8234,
 
-      "FCreacion": "2019-10-03",
+"Descipcion": "12"
 
-      "FModificacion": "2019-10-03",
+},
 
-      "User": "Cesar"
 
-    },
 
-    {
+{
 
-      "idRegla": 13,
 
-      "Nombre": "Diana Beck",
 
-      "idProducto": 5,
+"Id": 6,
 
-      "CantidadMin": 8.9041,
 
-      "CantidadMax": 42.8234,
 
-      "FCreacion": "2019-10-03",
+"Nombre": "laptop",
 
-      "FModificacion": "2019-10-03",
 
-      "User": "Cesar"
 
-    },
+"Tipo": "2131",
 
-    {
 
-      "idRegla": 14,
 
-      "Nombre": "Diana Beck",
+"Precio": "312",
 
-      "idProducto": 5,
 
-      "CantidadMin": 8.9041,
 
-      "CantidadMax": 42.8234,
+"Codigo": "12",
 
-      "FCreacion": "2019-10-03",
 
-      "FModificacion": "2019-10-03",
 
-      "User": "Cesar"
+"Descipcion": "12"
 
-    },
 
-    {
 
-      "idRegla": 15,
+},
 
-      "Nombre": "Diana Beck",
 
-      "idProducto": 5,
 
-      "CantidadMin": 8.9041,
+{
 
-      "CantidadMax": 42.8234,
 
-      "FCreacion": "2019-10-03",
 
-      "FModificacion": "2019-10-03",
+"Id": 7,
 
-      "User": "Cesar"
 
-    }
 
-  ]
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 8,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 9,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 10,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 11,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+},
+
+
+
+{
+
+
+
+"Id": 12,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 13,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 14,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+},
+
+
+
+{
+
+
+
+"Id": 15,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 16,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 17,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 18,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 19,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 20,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+"Id": 21,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 22,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 23,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 24,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+},
+
+
+
+{
+
+
+
+"Id": 25,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 26,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 27,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 28,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 29,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+},
+
+
+
+{
+
+
+
+"Id": 30,
+
+
+
+"Nombre": "laptop",
+
+
+
+"Tipo": "2131",
+
+
+
+"Precio": "312",
+
+
+
+"Codigo": "12",
+
+
+
+"Descipcion": "12"
+
+
+
+}
+
+
+
+]
+
+
+
+
 
 }
