@@ -3,40 +3,40 @@
     {
       "id": 1,
       "Nombre": "hello"
-	  "Tipo": "hello"
-	  "Codigo": "hello"
-	  "Desc": "hello"
-	  "Precio": "3123"
+	  "Tipo": "hello",
+	  "Codigo": "hello",
+	  "Desc": "hello",
+	  "Precio": "3123",
 	  "Inventario": "hello"
 	  
     }
 	 {
       "id": 2,
       "Nombre": "hello"
-	  "Tipo": "hel"
-	  "Codigo": "hel"
-	  "Desc": "hel"
-	  "Precio": "31231231"
+	  "Tipo": "hel",
+	  "Codigo": "hel",
+	  "Desc": "hel",
+	  "Precio": "31231231",
 	  "Inventario": "hel"
 	  
     }
 	 {
       "id": 3,
       "Nombre": "helloasasd"
-	  "Tipo": "helloasdasd"
-	  "Codigo": "helloasdasda"
-	  "Desc": "hello213123"
-	  "Precio": "3123asdasd"
+	  "Tipo": "helloasdasd",
+	  "Codigo": "helloasdasda",
+	  "Desc": "hello213123",
+	  "Precio": "3123asdasd",
 	  "Inventario": "hello12331asd"
 	  
     }
 	 {
       "id": 4,
       "Nombre": "hello1234"
-	  "Tipo": "hell434o"
-	  "Codigo": "hello3434"
-	  "Desc": "hello434"
-	  "Precio": "3123434"
+	  "Tipo": "hell434o",
+	  "Codigo": "hello3434",
+	  "Desc": "hello434",
+	  "Precio": "3123434",
 	  "Inventario": "hello434434"
 	  
     }
