@@ -739,7 +739,7 @@
 	  "Precio": "3123",
 	  "Inventario": "hello"
 	  
-    }
+    },
 	 {
       "id": 2,
       "Nombre": "hello",
@@ -749,7 +749,7 @@
 	  "Precio": "31231231",
 	  "Inventario": "hel"
 	  
-    }
+    },
 	 {
       "id": 3,
       "Nombre": "helloasasd",
@@ -759,7 +759,7 @@
 	  "Precio": "3123asdasd",
 	  "Inventario": "hello12331asd"
 	  
-    }
+    },
 	 {
       "id": 4,
       "Nombre": "hello1234",
@@ -770,6 +770,6 @@
 	  "Inventario": "hello434434"
 	  
     }
-  ],
-	}
+  ]
+	
 }
