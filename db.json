@@ -2,7 +2,7 @@
   "tarjeta": [
     {
       "id": 1,
-      "Nombre": "hello"
+      "Nombre": "hello",
 	  "Tipo": "hello",
 	  "Codigo": "hello",
 	  "Desc": "hello",
@@ -12,7 +12,7 @@
     }
 	 {
       "id": 2,
-      "Nombre": "hello"
+      "Nombre": "hello",
 	  "Tipo": "hel",
 	  "Codigo": "hel",
 	  "Desc": "hel",
@@ -22,7 +22,7 @@
     }
 	 {
       "id": 3,
-      "Nombre": "helloasasd"
+      "Nombre": "helloasasd",
 	  "Tipo": "helloasdasd",
 	  "Codigo": "helloasdasda",
 	  "Desc": "hello213123",
@@ -32,7 +32,7 @@
     }
 	 {
       "id": 4,
-      "Nombre": "hello1234"
+      "Nombre": "hello1234",
 	  "Tipo": "hell434o",
 	  "Codigo": "hello3434",
 	  "Desc": "hello434",
@@ -42,8 +42,8 @@
     }
   ],
   "Usuarios": {
-    "name": "Erick"
-	"name": "saul"
-	"name": "Job"
+    "name": "Erick",
+	"name": "saul",
+	"name": "Job",
   }
 }
