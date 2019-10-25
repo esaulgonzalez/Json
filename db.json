@@ -8,10 +8,7 @@
       "PCoste": 9.0802,
       "Codigo": "Love",
       "Proveedor": "franklin@carter.pk",
-      "Stock": 7,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -22,10 +19,7 @@
       "PCoste": 8.7879,
       "Codigo": "Atkins",
       "Proveedor": "kara@alston.ml",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -36,10 +30,7 @@
       "PCoste": 9.8712,
       "Codigo": "Clements",
       "Proveedor": "carol@burgess.tg",
-      "Stock": 1,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -50,10 +41,7 @@
       "PCoste": 8.3674,
       "Codigo": "McConnell",
       "Proveedor": "regina@boykin.ml",
-      "Stock": 0,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -64,10 +52,7 @@
       "PCoste": 8.31,
       "Codigo": "Francis",
       "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -78,10 +63,7 @@
       "PCoste": 8.31,
       "Codigo": "Francis",
       "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -92,10 +74,7 @@
       "PCoste": 8.31,
       "Codigo": "Francis",
       "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -106,10 +85,7 @@
       "PCoste": 8.31,
       "Codigo": "Francis",
       "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -120,10 +96,7 @@
       "PCoste": 8.31,
       "Codigo": "Francis",
       "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -134,10 +107,7 @@
       "PCoste": 8.31,
       "Codigo": "Francis",
       "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -148,10 +118,7 @@
       "PCoste": 8.31,
       "Codigo": "Francis",
       "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -162,10 +129,7 @@
       "PCoste": 8.31,
       "Codigo": "Francis",
       "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -176,10 +140,7 @@
       "PCoste": 8.31,
       "Codigo": "Francis",
       "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -190,10 +151,7 @@
       "PCoste": 8.31,
       "Codigo": "Francis",
       "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     },
     {
@@ -204,10 +162,7 @@
       "PCoste": 8.31,
       "Codigo": "Francis",
       "Proveedor": "vickie@schroeder.bn",
-      "Stock": 10,
-      "Estatus": "Activo",
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
+      
       "User": "Cesar"
     }
   ],
