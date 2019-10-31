@@ -109,53 +109,9 @@
       "Proveedor": "vickie@schroeder.bn",
       
       "User": "Cesar"
-    },
+    }, 
     {
       "idProducto": 11,
-      "Nombre": "Gayle Floyd",
-      "Tipo": "Consumible",
-      "PVenta": 14.4915,
-      "PCoste": 8.31,
-      "Codigo": "Francis",
-      "Proveedor": "vickie@schroeder.bn",
-      
-      "User": "Cesar"
-    },
-    {
-      "idProducto": 12,
-      "Nombre": "Gayle Floyd",
-      "Tipo": "Consumible",
-      "PVenta": 14.4915,
-      "PCoste": 8.31,
-      "Codigo": "Francis",
-      "Proveedor": "vickie@schroeder.bn",
-      
-      "User": "Cesar"
-    },
-    {
-      "idProducto": 13,
-      "Nombre": "Gayle Floyd",
-      "Tipo": "Consumible",
-      "PVenta": 14.4915,
-      "PCoste": 8.31,
-      "Codigo": "Francis",
-      "Proveedor": "vickie@schroeder.bn",
-      
-      "User": "Cesar"
-    },
-    {
-      "idProducto": 14,
-      "Nombre": "Gayle Floyd",
-      "Tipo": "Consumible",
-      "PVenta": 14.4915,
-      "PCoste": 8.31,
-      "Codigo": "Francis",
-      "Proveedor": "vickie@schroeder.bn",
-      
-      "User": "Cesar"
-    },
-    {
-      "idProducto": 15,
       "Nombre": "Gayle Floyd",
       "Tipo": "Consumible",
       "PVenta": 14.4915,
@@ -276,47 +232,7 @@
       "FCreacion": "2019-10-03",
       "FModificacion": "2019-10-03",
       "User": "Cesar"
-    },
-    {
-      "idRegla": 12,
-      "Nombre": "Diana Beck",
-      "idProducto": 5,
-      "CantidadMin": 8.9041,
-      "CantidadMax": 42.8234,
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    },
-    {
-      "idRegla": 13,
-      "Nombre": "Diana Beck",
-      "idProducto": 5,
-      "CantidadMin": 8.9041,
-      "CantidadMax": 42.8234,
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    },
-    {
-      "idRegla": 14,
-      "Nombre": "Diana Beck",
-      "idProducto": 5,
-      "CantidadMin": 8.9041,
-      "CantidadMax": 42.8234,
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    },
-    {
-      "idRegla": 15,
-      "Nombre": "Diana Beck",
-      "idProducto": 5,
-      "CantidadMin": 8.9041,
-      "CantidadMax": 42.8234,
-      "FCreacion": "2019-10-03",
-      "FModificacion": "2019-10-03",
-      "User": "Cesar"
-    }
+    } 
   ],
   "tarjeta": [
     {
